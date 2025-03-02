@@ -1,20 +1,24 @@
 //  Teste
 
 classe Animal {
-    grita() {
-        saida "ola";
+    pula() {
+        saida "pulou";
     }
 }
 
 classe Gato < Animal {
-//herda todas as propriedades de Animmal
+  //herda todas as propriedades de Animmal
+    mia() {
+        saida "miau";
+    }
 }
 
-var cat = Cat();
-saida cat;
-cat.grita();
+var gato = Gato();
+saida gato;
+gato.pula();
+gato.mia();
 
 //  Esperado
 // Instância de 'Gato'
-// "ola"
-
+// "pulou"
+// "miau"
