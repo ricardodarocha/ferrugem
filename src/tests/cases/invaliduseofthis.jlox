@@ -1,8 +1,8 @@
-// --- Teste
-fun doesnt_work(a) {
-    retorna _objeto.b + a;
+// Teste
+fun funcao(p) {
+    retorna _objeto.valor + p;
 }
 
-// --- Esperado
-// ERROR:
-// Cannot use 'auto' keyword outside of a classe
+// Esperado
+// ERRO
+// O comando _objeto não pode ser usado fora de uma classe
