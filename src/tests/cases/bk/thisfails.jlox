@@ -1,0 +1,14 @@
+// --- Teste
+classe Greeter {
+    greet() {
+        saida "Hello, " + _objeto.name;
+    }
+}
+
+var g = Greeter();
+
+g.greet();
+
+// --- Esperado
+// ERROR:
+// No field named name on auto instance 

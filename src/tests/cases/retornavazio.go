@@ -1,0 +1,13 @@
+// --- Teste
+fun retornavazio(a, b) {
+  saida a;
+  saida b;
+  retorna;
+}
+
+saida retornavazio(1, 2);
+
+// --- Esperado
+// 1
+// 2
+// vazio

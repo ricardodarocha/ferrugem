@@ -1,0 +1,18 @@
+// --- Teste
+fun condreturn(a) {
+  if (a <= 0) retorna 0;
+
+  retorna a - 1;
+}
+
+saida condreturn(4);
+saida condreturn(3);
+saida condreturn(2);
+saida condreturn(-1);
+
+
+// --- Esperado
+// 3
+// 2
+// 1
+// 0

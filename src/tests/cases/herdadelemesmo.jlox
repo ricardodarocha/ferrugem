@@ -1,0 +1,8 @@
+// --- Teste
+
+classe Bagel < Bagel {}
+
+
+// --- Esperado
+// ERROR:
+// A classe cannot inherit from itself 

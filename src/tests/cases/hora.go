@@ -1,0 +1,15 @@
+// Teste
+// Alem de pegar a hora do sistema, 
+// este teste tambem mostra que nao e possivel usar o operador menos
+// porque ele nao e implementado para string
+
+var hora = agora();
+saida hora 
+
+saida hora - hora;
+
+
+// Esperado
+// agora()
+// ERRO
+// O tipo Minus nao implementa os operandos agora() e agora()

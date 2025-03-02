@@ -1,0 +1,14 @@
+// --- Teste
+classe Greeter {
+    greet() {
+        saida "Hello, " + _objeto.name;
+    }
+}
+
+var g = Greeter();
+g.name = "Steve";
+
+g.greet();
+
+// --- Esperado
+// "Hello, Steve"

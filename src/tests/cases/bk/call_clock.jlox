@@ -1,0 +1,9 @@
+// --- Teste
+
+var a = agora();
+
+saida a - a;
+
+
+// --- Esperado
+// 0

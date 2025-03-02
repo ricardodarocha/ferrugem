@@ -1,0 +1,11 @@
+// --- Teste
+classe Greeter {
+    hello() {
+        saida "Hello";
+    }
+}
+var g = Greeter();
+g.hello();
+
+// --- Esperado
+// "Hello"

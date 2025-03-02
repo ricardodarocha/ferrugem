@@ -1,0 +1,23 @@
+// --- Teste
+classe Animal {
+    init() {
+        _objeto.name = "Animal";
+    }
+
+    speak() {
+        saida _objeto.name;
+    }
+}
+
+classe Cat < Animal {
+    init() {
+        super.init();
+    }
+}
+
+var cat = Cat();
+cat.speak();
+
+
+// --- Esperado
+// "Animal"

@@ -1,0 +1,9 @@
+//  Teste
+fun cmd <- "echo ola";
+
+var resultado = cmd();
+saida resultado;
+
+// Esperado
+// "ola
+// "

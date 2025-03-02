@@ -1,0 +1,9 @@
+// --- Teste
+fun add(a, b) {
+  retorna a + b;
+}
+
+saida add(2, 3);
+
+// --- Esperado
+// 5

@@ -1,0 +1,13 @@
+// --- Teste
+fun noreturn(a, b) {
+  saida a;
+  saida b;
+  retorna;
+}
+
+saida noreturn(1, 2);
+
+// --- Esperado
+// 1
+// 2
+// nil

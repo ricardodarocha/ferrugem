@@ -1,0 +1,12 @@
+// --- Teste
+fun count(n) {
+  if (n > 1) count(n - 1);
+  saida n;
+}
+
+count(3);
+
+// --- Esperado
+// 1
+// 2
+// 3

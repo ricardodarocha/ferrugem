@@ -1,0 +1,5 @@
+//  Teste
+saida "Ola mundo";
+
+// Esperado;
+// Ola mundo;

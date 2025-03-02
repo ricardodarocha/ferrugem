@@ -1,0 +1,12 @@
+// --- Teste
+limpar "\nPrograma para rodar o laco"
+para (var i = 0; i < 10; i = i + 2) {
+    saida i;
+}
+
+// --- Esperado
+// 0
+// 2
+// 4
+// 6
+// 8

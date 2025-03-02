@@ -1,0 +1,14 @@
+// --- Teste
+classe Bagel {
+    init() {
+        _objeto.a = 2;
+        _objeto.b = 3;
+    }
+}
+
+var b = Bagel();
+saida b.a + b.b;
+
+// --- Esperado
+// 5
+

@@ -1,0 +1,14 @@
+// --- Teste
+var a = 2;
+fun fn() {
+  retorna a;
+}
+
+{
+  var a = 1;
+  var b = fn();
+  saida b;
+}
+
+// --- Esperado
+// 2

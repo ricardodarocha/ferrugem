@@ -1,0 +1,20 @@
+//  Teste
+
+classe Animal {
+    speak() {
+        saida "Hello";
+    }
+}
+
+classe Cat < Animal {
+
+}
+
+var cat = Cat();
+saida cat;
+cat.speak();
+
+//  Esperado
+// Instance of 'Cat'
+// "Hello"
+

@@ -1,0 +1,11 @@
+// --- Teste
+classe DevonshireCream {
+  serveOn() {
+    retorna "Scones";
+  }
+}
+
+saida DevonshireCream;
+
+// --- Esperado
+// classe 'DevonshireCream'
