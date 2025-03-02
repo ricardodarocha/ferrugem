@@ -1,0 +1,24 @@
+// Teste
+// testa o funcionamento do comando _objeto
+classe Animal {
+    ini() {
+        _objeto.classe = "animais";
+    }
+
+    fala() {
+        saida "somos " + _objeto.classe;
+    }
+}
+
+classe Humano < Animal {
+    ini() {
+        super.ini();
+    }
+}
+
+var sapiens = Humano();
+sapiens.fala();
+
+
+// Esperado
+// "somos animais"
