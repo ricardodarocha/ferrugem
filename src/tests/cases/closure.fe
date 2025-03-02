@@ -1,0 +1,26 @@
+// --- Teste
+fun gerar_contador() {
+  var i = 0;
+  fun count() {
+    i = i + 1;
+    saida i;
+  }
+
+  retorna count;
+}
+
+var contador1 = gerar_contador();
+var contador2 = gerar_contador();
+
+contador1();
+contador1();
+
+contador2();
+contador2();
+
+
+// --- Esperado
+// 1
+// 2
+// 1
+// 2
