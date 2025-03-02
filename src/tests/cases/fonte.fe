@@ -1,6 +1,6 @@
-// --- Teste
+// Teste
 
-fun cmd <- "grep result tests/cases/echo_cmd.jlox";
+fun cmd <- "git grep result fonte.fe";
 
 var result = cmd();
 saida result;
