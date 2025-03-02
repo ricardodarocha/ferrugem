@@ -1,0 +1,7 @@
+// Teste
+retorna 123;
+
+// Esperado
+// ERRO:
+// retorna não é um comando válido fora da função
+// 
