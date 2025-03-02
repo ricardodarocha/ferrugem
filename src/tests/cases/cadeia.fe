@@ -1,0 +1,10 @@
+// Teste
+fun proximo(x) {
+    retorna x + 1;
+}
+
+var elo = 1 |> proximo |> proximo;
+saida elo;
+
+// --- Esperado
+// 3
