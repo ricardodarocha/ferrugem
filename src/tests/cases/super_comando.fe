@@ -4,7 +4,6 @@ fun a() {
     super.test();
 }
 
-
 // --- Esperado
 // ERROR:
-// Cannot use 'super' keyword outside of a classe
+// Não é possível usar o comando 'super' fora do escopo de uma classe
