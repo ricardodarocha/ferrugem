@@ -1,0 +1,9 @@
+// Teste
+
+var mensagem = "ola";
+
+classe Telegrama < mensagem {}
+
+// Esperado
+// ERRO:
+// A classe pai também precisa ser uma classe e não String 
