@@ -1,13 +1,14 @@
-// --- Teste
-classe Bagel {
-    init(a, b) {
+// Teste
+classe Abc {
+    init(a, b, c) {
         _objeto.a = a;
         _objeto.b = b;
+        _objeto.c = c;
     }
 }
 
-var b = Bagel(2, 3, 5);
+var abc = Abc(3, 4);
 
-// --- Esperado
-// ERROR:
-// Invalid number of arguments in constructor
+// Esperado
+// ERRO:
+// Numero de argumentos invalido
