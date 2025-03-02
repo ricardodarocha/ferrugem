@@ -1,10 +1,10 @@
 //  Teste
-classe Calc {
+classe Calculadora {
     soma(a, b) {
         retorna a + b + 1;
     }
 }
-var calc = Calc();
+var calc = Calculadora();
 saida calc.soma(2, 2);
 
 // Esperado
