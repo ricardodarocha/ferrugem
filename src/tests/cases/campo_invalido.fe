@@ -7,4 +7,4 @@ saida a.fuba;
 
 // Esperado
 // ERRO:
-// No field named test on _self instance
+// Não existe um campo com este nome
