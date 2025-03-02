@@ -5,6 +5,8 @@ Portugol sendo reescrito em Rust
 ![Fe](https://github.com/user-attachments/assets/56a00acf-6bd8-4e73-90f2-b7b5eca31ef1)
 [forked from https://gitlab.com/codescope-reference/cii](https://gitlab.com/codescope-reference/cii)
 
+👨‍🎤 *Não esqueça de instalar a extensão disponível no [link](https://github.com/ricardodarocha/suporte-ferrugem/tree/main)*
+
 ## Origem do nome
 
 Ferrugem é a tradução para o português da palavra Rust, linguagem na qual este projeto foi escrito.
