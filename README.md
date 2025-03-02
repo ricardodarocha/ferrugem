@@ -4,7 +4,6 @@ Portugol sendo reescrito em Rust
 
 ![Fe](https://github.com/user-attachments/assets/56a00acf-6bd8-4e73-90f2-b7b5eca31ef1)
 
-
 ## Origem do nome
 
 Ferrugem é a tradução para o português da palavra Rust, linguagem na qual este projeto foi escrito.
@@ -19,6 +18,9 @@ A linguagem Portugol teve forte influência de Pascal, mas mantém a sintaxe mai
 
 A implementação deste projeto foi inspirado pela série do youtube
 https://www.youtube.com/watch?v=Pn5RW9qFQW4&list
+
+![preview (2)](https://github.com/user-attachments/assets/9d40f0f9-4e57-4095-a4ae-b48041203661)
+
 
 ## Suporte a documentação
 
@@ -41,6 +43,7 @@ flowchart TD
 ## Contribuições
 
 Contribuições são bem vindas, basta enviar um pull request ou enviar um e-mail para ricardodarocha@outlook.com
+
 
 ## Roadmap
 
@@ -79,9 +82,7 @@ Alguns recursos ainda carecem de testes
 | super | ✅  |
 | limpar a tela | ✅  |
 
-
-
-> **Warning**
+> **Atenção**
 > Este projeto é inteiramente experimental com fins educativos. Vários recursos ainda precisam ser testados e ajustados. Contribuições são bem vindas. Atente ao roadmap. Use o github issues para criar solicitações de ajustes e o fórum para debater as prioridades.
 
 ## Agradecimentos
