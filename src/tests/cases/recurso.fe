@@ -1,0 +1,14 @@
+// Teste
+// Funcao recursiva com n iteracoes 
+
+fun aproxima(n) {
+  se (n > 1) aproxima(n - 1);
+  saida n;
+}
+
+aproxima(3);
+
+// Esperado
+// 1
+// 2
+// 3
