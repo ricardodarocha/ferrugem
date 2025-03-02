@@ -1,0 +1,14 @@
+// --- Teste
+
+classe Orfa {
+    vai_falhar() {
+        super.preparar();
+    }
+}
+
+var o = Orfa();
+o.vai_falhar();
+
+// --- Esperado
+// ERROR:
+// O objeto não tem classe pai 
