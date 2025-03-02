@@ -1,0 +1,11 @@
+// Teste
+// Cada instacia da entidade possui escopo independente 
+classe Entidade {}
+var e1 = Entidade();
+var e2 = Entidade();
+e2.fn = fun (a) { retorna a + 2; };
+var result = e1.fn(2);
+
+// Esperado
+// ERROR:
+// Nao existe o simbolo fn nesta instância 
