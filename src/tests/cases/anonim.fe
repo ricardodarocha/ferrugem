@@ -1,11 +1,11 @@
 // --- Teste
-fun caller(fn) {
+fun chame(fn) {
   fn();
 }
 
 var a = 0;
 
-caller(fun () { a = a + 1; });
+chame () { a = a + 1; });
 
 saida a;
 
