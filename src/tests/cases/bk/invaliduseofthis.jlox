@@ -1,8 +1,0 @@
-// --- Teste
-fun doesnt_work(a) {
-    retorna _objeto.b + a;
-}
-
-// --- Esperado
-// ERROR:
-// Cannot use 'auto' keyword outside of a classe

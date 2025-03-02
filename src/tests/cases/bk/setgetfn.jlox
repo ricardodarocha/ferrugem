@@ -1,9 +1,0 @@
-// --- Teste
-classe Bagel {}
-var b = Bagel();
-b.fn = fun (a) { retorna a + 2; };
-var result = b.fn(2);
-saida result;
-
-// --- Esperado
-// 4

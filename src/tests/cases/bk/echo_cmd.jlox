@@ -1,9 +1,0 @@
-// --- Teste
-fun cmd <- "echo hello";
-
-var result = cmd();
-saida result;
-
-// --- Esperado
-// "hello
-// "

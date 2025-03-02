@@ -1,7 +1,0 @@
-// --- Teste
-retorna 123;
-
-// --- Esperado
-// ERROR:
-// retorna statement is not allowed outside of a function
-// 
