@@ -1,0 +1,13 @@
+// Teste
+// Tenta criar duas variaveis com mesmo nome dentro de um mesmo escopo
+
+{ 
+  var a = 2; 
+  var a = 3; 
+}
+
+
+// --- Esperado
+// ERROR:
+// A variavel a ja existe neste escopo
+// 
