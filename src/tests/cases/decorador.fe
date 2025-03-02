@@ -1,0 +1,12 @@
+// Teste
+// Similar aos decoradores de Python
+fun decorar(fn) {
+  fn();
+}
+
+var a = 0;
+decorar(fun () { a = a + 1; });
+saida a;
+
+// --- Esperado
+// 1
