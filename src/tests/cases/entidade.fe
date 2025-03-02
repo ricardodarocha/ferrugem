@@ -8,4 +8,4 @@ var result = e1.fn(2);
 
 // Esperado
 // ERROR:
-// Nao existe o simbolo fn nesta instância 
+// Nao existe o simbolo fn nesta instancia 
