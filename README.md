@@ -2,6 +2,9 @@
 
 Portugol sendo reescrito em Rust
 
+![Fe](https://github.com/user-attachments/assets/56a00acf-6bd8-4e73-90f2-b7b5eca31ef1)
+
+
 ## Origem do nome
 
 Ferrugem é a tradução para o português da palavra Rust, linguagem na qual este projeto foi escrito.
@@ -19,8 +22,9 @@ https://www.youtube.com/watch?v=Pn5RW9qFQW4&list
 
 ## Suporte a documentação
 
-Os códigos geram documentação no formato mermaid.js
+Os códigos geram documentação no formato mermaid.js  
 Ver o arquivo .doc que é gerado a cada execução do programa.
+
 Acesse a doc [mermaid.js](https://mermaid.js.org/syntax/flowchart.html) para saber mais
 
 *Exemplo de um fluxo de decisão gerado pelo [Fe]*
@@ -59,7 +63,7 @@ Alguns recursos ainda carecem de testes
 | geração de documentaçao  | ✅ |
 | acentuação  | ❌ |
 | suporte a unicode  | ❌ |
-| métodos anônimocs  | ✅ |
+| métodos anônimos  | ✅ |
 | funções  | ✅ |
 | chamadas encadeadas  | ✅ |
 | concatenação de strings  | ✅ |
