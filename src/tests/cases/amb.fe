@@ -1,0 +1,13 @@
+// Teste
+// Evite usar veriáveis globais
+var a = 2;
+
+fun modifique() {
+  a = 3;
+}
+
+modifique();
+saida a;
+
+// --- Esperado
+// 3
