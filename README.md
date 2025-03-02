@@ -3,6 +3,7 @@
 Portugol sendo reescrito em Rust
 
 ![Fe](https://github.com/user-attachments/assets/56a00acf-6bd8-4e73-90f2-b7b5eca31ef1)
+[forked from https://gitlab.com/codescope-reference/cii](https://gitlab.com/codescope-reference/cii)
 
 ## Origem do nome
 
@@ -15,6 +16,8 @@ O número do elemento [Fe] 26 também é o número de letras do alfabeto da lín
 Este projeto é inspirado na primeira definição da linguagem Portugol, usada para ensinar programação e criada pelo professor Antonio Carlos Nicolodi entre 1980 e 1983
 
 A linguagem Portugol teve forte influência de Pascal, mas mantém a sintaxe mais simples, uma característica importante para quem está aprendendo programação ou que está tendo contato com algoritmos pela primeira vez. Atualmente existem outras versões da linguagem Portugol, algumas consideradas pseudocódigo, e outras são linguagens completas, livres de contexto, com gramáticas definidas e implementações em editores ou compiladores. [Fonte: https://pt.wikipedia.org/wiki/Portugol](https://pt.wikipedia.org/wiki/Portugol)
+
+Quem tiver interessem em desenvolvimento de linguagens pode acessar o livro https://craftinginterpreters.com/
 
 A implementação deste projeto foi inspirado pela série do youtube
 https://www.youtube.com/watch?v=Pn5RW9qFQW4&list
@@ -61,7 +64,7 @@ Alguns recursos ainda carecem de testes
 | fluxo de decisão  | ✅ |
 | laço  | ✅ |
 | enquanto  | ✅ |
-| aritimética básica  | ✅ |
+| aritmética básica  | ✅ |
 | operações lógicas  | ✅ |
 | geração de documentaçao  | ✅ |
 | acentuação  | ❌ |
