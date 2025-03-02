@@ -7,7 +7,6 @@ var a = 1;
 
   var a = 10;
 
-
   mod();
 
   saida a;
