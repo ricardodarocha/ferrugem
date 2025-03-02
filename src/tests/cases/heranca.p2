@@ -1,20 +1,20 @@
 //  Teste
 
 classe Animal {
-    speak() {
-        saida "Hello";
+    grita() {
+        saida "ola";
     }
 }
 
-classe Cat < Animal {
-
+classe Gato < Animal {
+//herda todas as propriedades de Animmal
 }
 
 var cat = Cat();
 saida cat;
-cat.speak();
+cat.grita();
 
 //  Esperado
-// Instance of 'Cat'
-// "Hello"
+// Instância de 'Gato'
+// "ola"
 
