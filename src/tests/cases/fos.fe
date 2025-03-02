@@ -1,13 +1,13 @@
 // --- Teste
 // FOS Funções de Ordem Superior
 
-fun thrice(fn) {
+fun trinidade(fn) {
   for (var i = 1; i <= 3; i = i + 1) {
     fn(i);
   }
 }
 
-thrice(fun (a) {
+fun trinidade(fn) {(fun (a) {
   saida a;
 });
 
