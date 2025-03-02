@@ -1,0 +1,8 @@
+// --- Teste
+
+classe Circulo < Circulo {}
+
+
+// --- Esperado
+// ERROR:
+// Erro de referência circular. Uma classe não pode herdar de si mesma
