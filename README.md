@@ -17,6 +17,15 @@ O número do elemento [Fe] 26 também é o número de letras do alfabeto da lín
 
 Este projeto é inspirado na primeira definição da linguagem Portugol, usada para ensinar programação e criada pelo professor Antonio Carlos Nicolodi entre 1980 e 1983
 
+## Teste agora
+download do executável na pasta bin (windows)
+1. descompacte o arquivo zip em uma pasta
+2. adicione esta pasta às variáveis de ambiente, se deseja acessar o programa de qualquer lugar
+3. usando o cmd, chame o comando ">fe programa.fe". O programa ferrugem vai tentar interpretar o script portugol contido no arquivo
+
+Caso tenha alguma dúvida, cheque a página de sintaxe.md ⚠ em construção 
+
+## História
 A linguagem Portugol teve forte influência de Pascal, mas mantém a sintaxe mais simples, uma característica importante para quem está aprendendo programação ou que está tendo contato com algoritmos pela primeira vez. Atualmente existem outras versões da linguagem Portugol, algumas consideradas pseudocódigo, e outras são linguagens completas, livres de contexto, com gramáticas definidas e implementações em editores ou compiladores. [Fonte: https://pt.wikipedia.org/wiki/Portugol](https://pt.wikipedia.org/wiki/Portugol)
 
 Quem tiver interessem em desenvolvimento de linguagens pode acessar o livro https://craftinginterpreters.com/
